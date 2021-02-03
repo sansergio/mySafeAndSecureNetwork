@@ -18,8 +18,8 @@ The scripts in the pythonScripts folder can be used to test the safe and securit
 ## Instructions
 
 1. Install Python 3
-1.1 Install pycryptodome version 3.4.3 using the followin command: pip install pycryptodome==3.4.3
-2. Clone this repo. If you haven't used GIT before then you can learn from the [GitHub's tutorials](https://github.com/NREL/SAM/wiki/Basic-git-tutorial). 
-3. Test the python scripts comunicating the Client with the Server.
-4. Run the McuXpresso example and learn how AES128 and CRC32 works in C.
-5. Implement your own network layer in C. Use the one in myssn.py as example.
+2. Install pycryptodome version 3.4.3 using the followin command: pip install pycryptodome==3.4.3
+3. Clone this repo. If you haven't used GIT before then you can learn from the [GitHub's tutorials](https://github.com/NREL/SAM/wiki/Basic-git-tutorial). 
+4. Test the python scripts comunicating the Client with the Server.
+5. Run the McuXpresso example and learn how AES128 and CRC32 works in C.
+6. Implement your own network layer in C. Use the one in myssn.py as example.
